@@ -1,0 +1,4 @@
+name: Charms
+version: '${project.version}'
+main: org.lemonkingdommods.charms.Charms
+api-version: '1.20'
